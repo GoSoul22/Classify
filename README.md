@@ -1,4 +1,8 @@
-# fa20-proj2-starter
+# Classify
+
+
+At the end of this project we written all RISC-V assembly code necessary to run a simple Artificial Neural Network (ANN) on the Venus RISC-V simulator. 
+
 
 ```
 .
